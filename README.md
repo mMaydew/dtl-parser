@@ -1,5 +1,5 @@
-# dtl-parser
-A "parser" for Sesam's DTL (Data Transformation Language) written in Rust
+Not actually a parser, I just don't know what to call it :3
+It's basically a DTL translation layer for Feldera.
 
 ## Development requirements
 * pre-commit
